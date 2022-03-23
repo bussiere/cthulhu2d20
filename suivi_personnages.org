@@ -1,0 +1,31 @@
+* Les status en cours
+
+| Personnage                   | Stress | Blessures | État                        | Fortune |
+|------------------------------+--------+-----------+-----------------------------+---------|
+| Igor                         | 5/14   |           |                             |       3 |
+| Le serviteur de nyarlathotep | 1/7    |           | étourdi tour 1 pour 4 tours |       X |
+| Jean                         | 9/11   |           |                             |       3 |
+|                              |        |           |                             |         |
+
+| Élan | Menace |
+|------+--------|
+|    5 |      2 |
+
+* Tours
+
+** tour 1
+
+- [X] Asha
+- [X] Jan
+- [X] Novice 1
+- [X] Novice 2
+- [X] Novice 3
+- [X] Novice 4
+- [X] Soldat 1
+- [X] Soldat 2
+- [X] Soldat 3
+- [X] Jean
+- [ ] Émile
+- [X] Igor
+- [X] Renato
+- [X] Le serviteur de Nyarlathotep
