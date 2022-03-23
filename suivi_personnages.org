@@ -9,6 +9,14 @@
 | Soldat 1                     | 3/5    |           |                             | X       |
 | Jean                         | 9/11   |           |                             | 3       |
 
+** A dépensé un point de fortune pour cette scène
+
+- [X] Asha
+- [ ] Jean
+- [ ] Igor
+- [ ] Renato
+- [ ] Émile
+
 ** Points
 
 | Élan | Menace |
