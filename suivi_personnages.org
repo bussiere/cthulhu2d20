@@ -4,20 +4,16 @@
 
 | Personnage                   | Stress | Blessures | État                        | Fortune |
 |------------------------------+--------+-----------+-----------------------------+---------|
-| Igor                         | 5/14   |           |                             |       3 |
-| Le serviteur de nyarlathotep | 1/7    |           | étourdi tour 1 pour 4 tours |       X |
-| Jean                         | 9/11   |           |                             |       3 |
-|                              |        |           |                             |         |
+| Igor                         | 5/14   |           |                             | 3       |
+| Le serviteur de nyarlathotep | 1/7    |           | étourdi du tour 1 au tour 4 | X       |
+| Soldat 1                     | 3/5    |           |                             | X       |
+| Jean                         | 9/11   |           |                             | 3       |
 
 ** Points
 
 | Élan | Menace |
 |------+--------|
 |    5 |      2 |
-
-* La situation visuelle
-
-[[file:scene_4.JPG]]
 
 * Tours
 
@@ -37,3 +33,7 @@
 - [X] Igor
 - [X] Renato
 - [X] Le serviteur de Nyarlathotep
+
+* La situation visuelle
+
+[[file:scene_4.JPG]]
