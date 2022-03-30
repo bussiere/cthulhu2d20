@@ -2,35 +2,37 @@
 
 ** Personnages
 
-| Personnage                   | Stress | Blessures | État                        | Fortune |
-|------------------------------+--------+-----------+-----------------------------+---------|
-| Igor                         | 5/14   |           |                             | 3       |
-| Le serviteur de nyarlathotep | 1/7    |           | étourdi du tour 1 au tour 4 | X       |
-| Soldat 1                     | 3/5    |           |                             | X       |
-| Jean                         | 9/11   |           |                             | 3       |
+| Personnage                   | Stress | Blessures | État  | Fortune |
+|------------------------------+--------+-----------+-------+---------|
+| Igor                         | 6/14   |           |       | 2       |
+| Le serviteur de nyarlathotep | 7/7    |         2 | couic | X       |
+| Soldat 1                     | 3/5    |           |       | X       |
+| Soldat 2                     | 2/5    |           |       | X
+| Novice 4                     | 3/5    |           |       | X       |
+| Jean                         | 9/11   |           |       | 3       |
 
 ** A dépensé un point de fortune pour cette scène
 
 - [X] Asha
 - [ ] Jean
-- [ ] Igor
+- [X] Igor
 - [ ] Renato
-- [ ] Émile
+- [X] Émile
 
 ** Points
 
 | Élan | Menace |
 |------+--------|
-|    5 |      2 |
+|    4 |      3 |
 
 * Tours
 
 ** tour 1
 
 - [X] Asha
-- [X] Jan
-- [X] Novice 1
-- [X] Novice 2
+- [X] Jans
+- [ ] Novice 1
+- [ ] Novice 2
 - [X] Novice 3
 - [X] Novice 4
 - [X] Soldat 1
@@ -40,7 +42,7 @@
 - [ ] Émile
 - [X] Igor
 - [X] Renato
-- [X] Le serviteur de Nyarlathotep
+
 
 * La situation visuelle
 
