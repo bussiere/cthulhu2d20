@@ -7,9 +7,12 @@
 | Igor                         | 6/14   |           |       | 2       |
 | Le serviteur de nyarlathotep | 7/7    |         2 | couic | X       |
 | Soldat 1                     | 3/5    |           |       | X       |
-| Soldat 2                     | 2/5    |           |       | X
+| Soldat 2                     | 5/5    |         1 | couic | X       |
+| Novice 2                     | 5/5    |         1 | couic |         |
+| Novice 3                     |        |           |       |         |
 | Novice 4                     | 3/5    |           |       | X       |
 | Jean                         | 9/11   |           |       | 3       |
+| Ash                          | -1     |           |       |         |
 
 ** A dépensé un point de fortune pour cette scène
 
@@ -30,18 +33,18 @@
 ** tour 1
 
 - [X] Asha
-- [X] Jans
+- [ ] Jans
 - [ ] Novice 1
 - [ ] Novice 2
 - [X] Novice 3
-- [X] Novice 4
-- [X] Soldat 1
-- [X] Soldat 2
-- [X] Soldat 3
-- [X] Jean
+- [ ] Novice 4
+- [ ] Soldat 1
+- [ ] Soldat 2
+- [ ] Soldat 3
+- [ ] Jean
 - [ ] Émile
-- [X] Igor
-- [X] Renato
+- [ ] Igor- 
+- [ ] Renato
 
 
 * La situation visuelle
