@@ -11,13 +11,14 @@
 | Novice 2                     | 5/5    |         1 | couic |         |
 | Novice 3                     |        |           |       |         |
 | Novice 4                     | 3/5    |           |       | X       |
-| Jean                         | 9/11   |           |       | 3       |
-| Ash                          | -1     |           |       |         |
+| Jean                         | 7/11   |           |       | 2       |
+| Ash                          | 1/10   |           |       |         |
+| Renato                       | 2/9    |           |       | 3       |
 
 ** A dépensé un point de fortune pour cette scène
 
 - [X] Asha
-- [ ] Jean
+- [X] Jean
 - [X] Igor
 - [ ] Renato
 - [X] Émile
@@ -26,7 +27,7 @@
 
 | Élan | Menace |
 |------+--------|
-|    4 |      3 |
+|    4 |      0 |
 
 * Tours
 
@@ -38,12 +39,14 @@
 - [ ] Novice 2
 - [X] Novice 3
 - [ ] Novice 4
-- [ ] Soldat 1
-- [ ] Soldat 2
+- [X] Soldat 1
 - [ ] Soldat 3
-- [ ] Jean
+- [ ] Soldat 4
+- [ ] Soldat 5
+- [ ] Soldat 6
+- [X] Jean
 - [ ] Émile
-- [ ] Igor- 
+- [ ] Igor
 - [ ] Renato
 
 
