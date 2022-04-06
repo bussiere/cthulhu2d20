@@ -6,7 +6,7 @@
 |------------------------------+--------+-----------+-------+---------|
 | Igor                         | 6/14   |           |       | 2       |
 | Le serviteur de nyarlathotep | 7/7    |         2 | couic | X       |
-| Soldat 1                     | 3/5    |           |       | X       |
+| Soldat 1                     | 5/5    |           | couic | X       |
 | Soldat 2                     | 5/5    |         1 | couic | X       |
 | Novice 2                     | 5/5    |         1 | couic |         |
 | Novice 3                     |        |           |       |         |
@@ -34,20 +34,18 @@
 ** tour 1
 
 - [X] Asha
-- [ ] Jans
 - [ ] Novice 1
 - [ ] Novice 2
 - [X] Novice 3
 - [ ] Novice 4
-- [X] Soldat 1
 - [ ] Soldat 3
 - [ ] Soldat 4
 - [ ] Soldat 5
 - [ ] Soldat 6
 - [X] Jean
-- [ ] Émile
+- [X] Émile
 - [ ] Igor
-- [ ] Renato
+- [X] Renato
 
 
 * La situation visuelle
