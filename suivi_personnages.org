@@ -2,18 +2,16 @@
 
 ** Personnages
 
-| Personnage                   | Stress | Blessures | État  | Fortune | Salve |
-|------------------------------+--------+-----------+-------+---------+-------|
-| Asha                         | 4/10   |           |       | 2       |       |
-| Igor                         | 9/14   |           |       | 2       |       |
-| Jean                         | 7/11   |           |       | 2       |       |
-| Novice 2                     | 0/5    |           |       |         |     2 |
-| Novice 3                     |        |           |       |         |       |
-| Novice 4                     | 3/5    |           |       | X       |       |
-| Renato                       | 5/9    |           |       | 3       |       |
-| Soldat 4                     | 0/5    |           |       | X       |     1 |
-| Soldat 5                     | 0/5    |           |       | X       |     1 |
-| Soldat 6                     | 0/5    |           |       | X       |       |
+| Personnage | Stress | Blessures | État | Fortune | Salve |
+|------------+--------+-----------+------+---------+-------|
+| Asha       | 4/10   |           |      | 2       |       |
+| Igor       | 13/14  |           |      | 2       |       |
+| Jean       | 7/11   |           |      | 2       |     1 |
+| Novice 1   |        |           |      | X       |     2 |
+| Novice 4   | 3/5    |           |      | X       |       |
+| Renato     | 5/9    |           |      | 3       |       |
+| Soldat 4   | 0/5    |           |      | X       |     1 |
+| Soldat 5   | 0/5    |           |      | X       |     1 |
 
 ** A dépensé un point de fortune pour cette scène
 
@@ -33,18 +31,16 @@
 
 ** tour 1
 
-- [ ] Asha
-- [ ] Novice 1
-- [ ] Novice 2
-- [ ] Novice 3
-- [ ] Novice 4
+- [X] Asha
+- [X] Novice 1
+- [X] Novice 4
 - [ ] Soldat 4
 - [ ] Soldat 5
 - [ ] Soldat 6
 - [ ] Jean
 - [ ] Émile
-- [X] Igor
-- [X] Renato
+- [ ] Igor
+- [ ] Renato
 
 
 * La situation visuelle
