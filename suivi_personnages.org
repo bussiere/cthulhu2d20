@@ -11,8 +11,6 @@
 | Novice 3                     |        |           |       |         |       |
 | Novice 4                     | 3/5    |           |       | X       |       |
 | Renato                       | 5/9    |           |       | 3       |       |
-| Soldat 2                     | 5/5    |           |       | X       |       |
-| Soldat 3                     | 5/5    |           |       | X       |       |
 | Soldat 4                     | 0/5    |           |       | X       |     1 |
 | Soldat 5                     | 0/5    |           |       | X       |     1 |
 | Soldat 6                     | 0/5    |           |       | X       |       |
