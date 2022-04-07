@@ -4,20 +4,20 @@
 
 | Personnage                   | Stress | Blessures | État  | Fortune | Salve |
 |------------------------------+--------+-----------+-------+---------+-------|
+| Asha                         | 4/10   |           |       | 2       | v     |
 | Igor                         | 9/14   |           |       | 2       |       |
+| Jean                         | 7/11   |           |       | 2       |       |
 | Le serviteur de nyarlathotep | 7/7    |         2 | couic | X       |       |
+| Novice 2                     | 0/5    |           |       |         |     2 |
+| Novice 3                     |        |           |       |         |       |
+| Novice 4                     | 3/5    |           |       | X       |       |
+| Renato                       | 5/9    |           |       | 3       |       |
 | Soldat 1                     | 5/5    |           | couic | X       |       |
 | Soldat 2                     | 5/5    |           |       | X       |       |
 | Soldat 3                     | 5/5    |           |       | X       |       |
 | Soldat 4                     | 0/5    |           |       | X       |     1 |
 | Soldat 5                     | 0/5    |           |       | X       |     1 |
 | Soldat 6                     | 0/5    |           |       | X       |       |
-| Novice 2                     | 0/5    |           |       |         |     2 |
-| Novice 3                     |        |           |       |         |       |
-| Novice 4                     | 3/5    |           |       | X       |       |
-| Jean                         | 7/11   |           |       | 2       |       |
-| Ash                          | 4/10   |           |       |         |       |
-| Renato                       | 5/9    |           |       | 3       |       |
 
 ** A dépensé un point de fortune pour cette scène
 
