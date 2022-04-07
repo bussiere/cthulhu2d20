@@ -4,7 +4,7 @@
 
 | Personnage                   | Stress | Blessures | État  | Fortune | Salve |
 |------------------------------+--------+-----------+-------+---------+-------|
-| Asha                         | 4/10   |           |       | 2       | v     |
+| Asha                         | 4/10   |           |       | 2       |       |
 | Igor                         | 9/14   |           |       | 2       |       |
 | Jean                         | 7/11   |           |       | 2       |       |
 | Le serviteur de nyarlathotep | 7/7    |         2 | couic | X       |       |
